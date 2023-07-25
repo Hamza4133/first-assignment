@@ -129,6 +129,7 @@ width: 100%;
     margin-top: 90px;
     margin-bottom: 60px;
      text-align: center;
+    
 }
 .div-52{
 
@@ -146,8 +147,10 @@ width: 100%;
 }
 
 .section-6{
+    margin-left: 22%;
     margin-top: 30px;
-    width: 100%;
+    margin-bottom: 30px;
+    width: 56%;
     background-image: url(images/Rectangle\ 9.png);
     height: 200px;
     justify-content: center;
@@ -169,4 +172,29 @@ border-radius: 6px;
     width: 120px;
     height: 30px;
     flex-shrink: 0;
+}
+.section-7{
+    text-align: center;
+    background-color: #111010;
+    height: 200px;
+}
+.section-7, span{
+    color: #E55473;
+}
+.section-7, h2{
+    color: aliceblue;
+    padding-top: 10px;
+}
+.section-7, p{
+    /* color: antiquewhite; */
+    
+}
+footer{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
